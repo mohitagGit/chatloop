@@ -1,12 +1,12 @@
 # chatloop
-An infinite chat loop app bootstrapped with ReactJs. It always scroll to bottom to the last message in the chat.
+An infinite chat loop app bootstrapped with ReactJs. It will allow app to always scroll to bottom to the last message in the chat.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 
 ## Screenshots of application
 
-![infinte chat loop](https://github.com/mohitagGit/airlinetrack/blob/main/src/screenshot.png?raw=true)
+![infinte chat loop](https://github.com/mohitagGit/chatloop/blob/main/src/screenshot.png?raw=true)
 
 In the project directory, you can run:
 
