@@ -44,7 +44,7 @@ function App() {
         </div>
         <div className="footer">
           <input type="text" placeholder="You message here..." />
-          <img src={sendSvg} />
+          <img src={sendSvg} alt='send icon'/>
         </div>
       </div>
       </header>
