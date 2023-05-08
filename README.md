@@ -5,8 +5,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 
 ## Screenshots of application
-
-<> ![infinte chat loop](https://github.com/mohitagGit/chatloop/blob/main/src/screenshot.png)
+<!---
+![infinte chat loop](https://github.com/mohitagGit/chatloop/blob/main/src/screenshot.png)
+-->
 <img src="https://github.com/mohitagGit/chatloop/blob/main/src/screenshot.png" width="300">
 
 In the project directory, you can run:
